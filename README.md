@@ -26,6 +26,7 @@ Since Im starting this logbook during 2022 I will miss sadly some of the fidelit
 | Olympia: Long Miles Mikuba Micro Lot 1 | Burundi | Light | 8/16/22 | Washed | Espresso - Latte | | | | | |
 | Anchorhead: Narwhal | Guatemala & Sumatra | Medium | 9/12/22 | Washed | Espresso - Latte | | | | | |
 | Caffe Vita: Dreamsicle | Aponte Narino Colombia | Medium | 9/27/22 | Honey | Espresso - Latte | | | | | |
+| Olympia: Yabitu Koba Natural | Ethiopia | Medium | 10/17/22 | Natural | Espresso - Latte | | | | | |
 
 
 ### Tasting Notes
@@ -42,3 +43,4 @@ Since Im starting this logbook during 2022 I will miss sadly some of the fidelit
 #### Olympia: Long Miles Mikuba Micro Lot 1
 #### Anchorhead: Narwhal
 #### Caffe Vita: Dreamsicle
+#### Olympia: Yabitu Koba Natural
