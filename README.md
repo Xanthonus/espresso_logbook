@@ -15,7 +15,10 @@ For the majority of the year, I used a BWT Penguin 2.7L Water Pitcher with OEM 1
 
 During the end of the Olympia: Yabitu Koba Natural I switched to Lotus Water [https://lotuscoffeeproducts.com/]. Lotus water is a way to play with the minerals in your water and allow you to achieve different flavors depending on which minerals you use and how much. For this method, I use distilled water and then add the Lotus minerals to it. This adds an additional layer to achieving the same results as I have. What I will add here is what I believe is the best combination of minerals and possibly if it makes sense an interesting combination.
 
-Olympia: Yabitu Koba Natural: 2 drops Magnesium | 11 drops Sodium
+### Lotus Water Recipes
+| Coffee | Mineral Recipe |
+|--------|--------|
+| Olympia: Yabitu Koba Natural | 2 drops Magnesium, 11 drops Sodium |
 
 ## 2022 Logbook 
 Since Im starting this logbook during 2022 I will miss sadly some of the fidelity of this log year.
