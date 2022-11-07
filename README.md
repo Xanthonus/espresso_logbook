@@ -8,6 +8,15 @@ Espresso Science!
 * Barista Hustle Tamper
 * IMS basket and showerscreen
 
+## Lets talk Water
+Water makes a huge difference in espresso taste and it’s a factor in why you may have a different experience from one setup to another. 
+
+For the majority of the year, I used a BWT Penguin 2.7L Water Pitcher with OEM 1 Magnesium Mineralizing Filters [https://www.wholelattelove.com/products/bwt-penguin-2-7-l-water-pitcher].
+
+During the end of the Olympia: Yabitu Koba Natural I switched to Lotus Water [https://lotuscoffeeproducts.com/]. Lotus water is a way to play with the minerals in your water and allow you to achieve different flavors depending on which minerals you use and how much. For this method, I use distilled water and then add the Lotus minerals to it. This adds an additional layer to achieving the same results as I have. What I will add here is what I believe is the best combination of minerals and possibly if it makes sense an interesting combination.
+
+Olympia: Yabitu Koba Natural: 2 drops Magnesium | 11 drops Sodium
+
 ## 2022 Logbook 
 Since Im starting this logbook during 2022 I will miss sadly some of the fidelity of this log year.
 
@@ -27,6 +36,8 @@ Since Im starting this logbook during 2022 I will miss sadly some of the fidelit
 | Anchorhead: Narwhal | Guatemala & Sumatra | Medium | 9/12/22 | Washed | Espresso - Latte | | | | | |
 | Caffe Vita: Dreamsicle | Aponte Narino Colombia | Medium | 9/27/22 | Honey | Espresso - Latte | | | | | |
 | Olympia: Yabitu Koba Natural | Ethiopia | Medium | 10/17/22 | Natural | Espresso - Latte | | | | | |
+| Onyx: El Salvador Santa Rosa Honey | El Salvador | Light-Medium |  | Honey | Espresso - Latte | | | | | |
+| Onyx: Monarch  | Blend | Dark |  | Washed-Natural | Espresso - Latte | | | | | |
 
 
 ### Tasting Notes
@@ -44,3 +55,5 @@ Since Im starting this logbook during 2022 I will miss sadly some of the fidelit
 #### Anchorhead: Narwhal
 #### Caffe Vita: Dreamsicle
 #### Olympia: Yabitu Koba Natural
+#### Onyx: El Salvador Santa Rosa Honey
+#### Onyx: Monarch
